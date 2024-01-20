@@ -1,5 +1,0 @@
-my:2
-name:2
-is:2
-aditya:2
-second:1

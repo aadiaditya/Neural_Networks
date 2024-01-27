@@ -7,3 +7,6 @@ HERE IS THE VIDEO LINK EXPLAINING THIS CODE : https://youtu.be/_yiMn-Ls7FI
 # Neural_Networks-Assignment_2
 
 HERE IS THE VIDEO LINK EXPLAINING THIS CODE : https://youtu.be/kWfBCglqxWg
+
+# Neural_Networks-Assignment_3
+HERE IS THE VIDEO LINK EXPLAINING THIS CODE : https://youtu.be/ZO1i59HcnVI
